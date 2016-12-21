@@ -33,7 +33,9 @@
 							<projectFile>pruebas-soapui-project.xml</projectFile>
 							<testSuite>OnpBRCalcularLiquidacion TestSuite</testSuite>
 							<testCase>19990 - Invalidez</testCase>
-							<endpoint>http://res-desa:9080/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
+							<endpoint>https://brsv2-550aa6d9.ng.bluemix.net/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
+							<username>resAdmin</username>
+							<password>u87yt8etv86w</password>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>true</printReport>
@@ -54,7 +56,9 @@
 							<projectFile>pruebas-soapui-project.xml</projectFile>
 							<testSuite>OnpBRCalcularLiquidacion TestSuite</testSuite>
 							<testCase>19990 - Causante No Pensionista</testCase>
-							<endpoint>http://res-desa:9080/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
+							<endpoint>https://brsv2-550aa6d9.ng.bluemix.net/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
+							<username>resAdmin</username>
+							<password>u87yt8etv86w</password>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>true</printReport>
@@ -72,7 +76,9 @@
 							<projectFile>pruebas-soapui-project.xml</projectFile>
 							<testSuite>OnpBRCalcularLiquidacion TestSuite</testSuite>
 							<testCase>19990 - Pension Jubilacion</testCase>
-							<endpoint>http://res-desa:9080/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
+							<endpoint>https://brsv2-550aa6d9.ng.bluemix.net/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
+							<username>resAdmin</username>
+							<password>u87yt8etv86w</password>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>true</printReport>
