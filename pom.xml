@@ -34,9 +34,10 @@
 							<testSuite>OnpBRCalcularLiquidacion TestSuite</testSuite>
 							<testCase>19990 - Invalidez</testCase>
 							<endpoint>https://brsv2-550aa6d9.ng.bluemix.net/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
+							<host>brsv2-550aa6d9.ng.bluemix.net</host>
 							<username>resAdmin</username>
 							<password>u87yt8etv86w</password>
-							<wssPasswordType>Basic</wssPasswordType>
+							<wssPasswordType>PasswordText</wssPasswordType>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>true</printReport>
@@ -58,9 +59,10 @@
 							<testSuite>OnpBRCalcularLiquidacion TestSuite</testSuite>
 							<testCase>19990 - Causante No Pensionista</testCase>
 							<endpoint>https://brsv2-550aa6d9.ng.bluemix.net/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
+							<host>brsv2-550aa6d9.ng.bluemix.net</host>
 							<username>resAdmin</username>
 							<password>u87yt8etv86w</password>
-							<wssPasswordType>Basic</wssPasswordType>
+							<wssPasswordType>PasswordText</wssPasswordType>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>true</printReport>
@@ -79,9 +81,10 @@
 							<testSuite>OnpBRCalcularLiquidacion TestSuite</testSuite>
 							<testCase>19990 - Pension Jubilacion</testCase>
 							<endpoint>https://brsv2-550aa6d9.ng.bluemix.net/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
+							<host>brsv2-550aa6d9.ng.bluemix.net</host>
 							<username>resAdmin</username>
 							<password>u87yt8etv86w</password>
-							<wssPasswordType>Basic</wssPasswordType>
+							<wssPasswordType>PasswordText</wssPasswordType>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>true</printReport>
