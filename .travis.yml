@@ -3,4 +3,4 @@ cache:
   directories:
       - .autoconf
       - $HOME/.m2
-script: mvn -f pom-calcularliquidacion.xml test
+script: mvn -f pom.xml test
