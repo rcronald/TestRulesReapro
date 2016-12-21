@@ -1,7 +1,7 @@
 Status: FAILED
-Time Taken: 11927
+Time Taken: 743
 Size: 11080
-Timestamp: Tue Dec 20 19:52:42 COT 2016
+Timestamp: Tue Dec 20 20:08:10 COT 2016
 TestStep: Pension Invalidez - Art. 25a
 
 ----------------- Messages ------------------------------
@@ -1469,7 +1469,7 @@ Content-Type : text/xml;charset=UTF-8
 
 ---------------- Response --------------------------
 Response Headers: Content-Language : en-US
-Date : Wed, 21 Dec 2016 00:52:53 GMT
+Date : Wed, 21 Dec 2016 01:08:11 GMT
 Transfer-Encoding : chunked
 #status# : HTTP/1.1 200 OK
 Content-Type : text/xml;charset=UTF-8
@@ -1479,7 +1479,7 @@ X-Powered-By : Servlet/3.0
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ds="http://onp.gob.pe/reglasnegocio/servicio/BRCalcularLiquidacion">
    <soapenv:Body>
       <CalcularliquidacionResponse xmlns="http://onp.gob.pe/reglasnegocio/servicio/BRCalcularLiquidacion">
-         <DecisionID>f91f5d50-4d31-4570-9fc8-3f93be84a2470</DecisionID>
+         <DecisionID>6b399dff-85c3-44de-a8bd-6a40c1d2c6e10</DecisionID>
          <listaLiquidaciones xmlns="http://onp.gob.pe/reglasnegocio/schema/BRCalcularLiquidacion">
             <listaLiquidaciones xmlns="" xmlns:ns0="http://onp.gob.pe/reglasnegocio/schema">
                <ns0:liquidaciones>
