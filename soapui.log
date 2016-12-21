@@ -1,14 +1,14 @@
-2016-12-20 20:11:11,288 WARN  [SoapUI] Missing folder [D:\development\workspace-github\TestRulesReapro\ext] for external libraries
-2016-12-20 20:11:11,452 INFO  [DefaultSoapUICore] initialized soapui-settings from [D:\development\workspace-github\TestRulesReapro\soapui-settings.xml]
-2016-12-20 20:11:14,094 INFO  [WsdlProject] Loaded project from [file:/D:/development/workspace-github/TestRulesReapro/pruebas-soapui-project.xml]
-2016-12-20 20:11:14,098 INFO  [SoapUITestCaseRunner] Setting project property [NameInsured] to [IBM]
-2016-12-20 20:11:14,100 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Pruebas]
-2016-12-20 20:11:14,100 INFO  [SoapUITestCaseRunner] Running TestCase [19990 - Invalidez]
-2016-12-20 20:11:14,114 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [19990 - Invalidez]
-2016-12-20 20:11:14,119 INFO  [SoapUITestCaseRunner] running step [Pension Invalidez - Art. 25a]
-2016-12-20 20:11:14,797 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
-2016-12-20 20:11:14,798 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status FAILED
-2016-12-20 20:11:14,798 ERROR [SoapUITestCaseRunner] ASSERTION FAILED -> Missing token [<listaLiquidaciones xmlns="http://onp.gob.pe/reglasnegocio/schema/BRCalcularLiquidacion">
+2016-12-20 20:36:30,224 WARN  [SoapUI] Missing folder [D:\development\workspace-github\TestRulesReapro\ext] for external libraries
+2016-12-20 20:36:30,403 INFO  [DefaultSoapUICore] initialized soapui-settings from [D:\development\workspace-github\TestRulesReapro\soapui-settings.xml]
+2016-12-20 20:36:32,913 INFO  [WsdlProject] Loaded project from [file:/D:/development/workspace-github/TestRulesReapro/pruebas-soapui-project.xml]
+2016-12-20 20:36:32,916 INFO  [SoapUITestCaseRunner] Setting project property [NameInsured] to [IBM]
+2016-12-20 20:36:32,919 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Pruebas]
+2016-12-20 20:36:32,920 INFO  [SoapUITestCaseRunner] Running TestCase [19990 - Invalidez]
+2016-12-20 20:36:32,934 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [19990 - Invalidez]
+2016-12-20 20:36:32,939 INFO  [SoapUITestCaseRunner] running step [Pension Invalidez - Art. 25a]
+2016-12-20 20:36:33,702 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2016-12-20 20:36:33,702 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status FAILED
+2016-12-20 20:36:33,703 ERROR [SoapUITestCaseRunner] ASSERTION FAILED -> Missing token [<listaLiquidaciones xmlns="http://onp.gob.pe/reglasnegocio/schema/BRCalcularLiquidacion">
             <listaLiquidaciones xmlns="" xmlns:ns0="http://onp.gob.pe/reglasnegocio/schema">
                <ns0:liquidaciones>
                   <ns0:remuneracionReferencia>
@@ -351,6 +351,6 @@
                </ns0:liquidaciones>
             </listaLiquidaciones>
          </listaLiquidaciones>] in Response
-2016-12-20 20:11:14,820 ERROR [SoapUITestCaseRunner] Pension Invalidez - Art. 25a failed, exporting to [D:\development\workspace-github\TestRulesReapro\target\surefire-reports\OnpBRCalcularLiquidacion_TestSuite-19990__Invalidez-Pension_Invalidez__Art_25a-0-FAILED.txt]
-2016-12-20 20:11:14,886 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [19990 - Invalidez], time taken: 673ms, status: FAILED
-2016-12-20 20:11:14,888 INFO  [SoapUITestCaseRunner] TestCase [19990 - Invalidez] finished with status [FAILED] in 673ms
+2016-12-20 20:36:33,736 ERROR [SoapUITestCaseRunner] Pension Invalidez - Art. 25a failed, exporting to [D:\development\workspace-github\TestRulesReapro\target\surefire-reports\OnpBRCalcularLiquidacion_TestSuite-19990__Invalidez-Pension_Invalidez__Art_25a-0-FAILED.txt]
+2016-12-20 20:36:33,808 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [19990 - Invalidez], time taken: 756ms, status: FAILED
+2016-12-20 20:36:33,808 INFO  [SoapUITestCaseRunner] TestCase [19990 - Invalidez] finished with status [FAILED] in 756ms
