@@ -36,6 +36,7 @@
 							<endpoint>https://brsv2-550aa6d9.ng.bluemix.net/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
 							<username>resAdmin</username>
 							<password>u87yt8etv86w</password>
+							<wssPasswordType>Basic</wssPasswordType>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>true</printReport>
@@ -59,6 +60,7 @@
 							<endpoint>https://brsv2-550aa6d9.ng.bluemix.net/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
 							<username>resAdmin</username>
 							<password>u87yt8etv86w</password>
+							<wssPasswordType>Basic</wssPasswordType>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>true</printReport>
@@ -79,6 +81,7 @@
 							<endpoint>https://brsv2-550aa6d9.ng.bluemix.net/DecisionService/ws/onpBRCalcularLiquidacion/calcularliquidacion/v75</endpoint>               
 							<username>resAdmin</username>
 							<password>u87yt8etv86w</password>
+							<wssPasswordType>Basic</wssPasswordType>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>true</printReport>
