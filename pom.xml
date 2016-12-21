@@ -37,6 +37,7 @@
 							<host>brsv2-550aa6d9.ng.bluemix.net</host>
 							<username>resAdmin</username>
 							<password>u87yt8etv86w</password>
+							<printReport>true</printReport>
 							<wssPasswordType>PasswordText</wssPasswordType>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
@@ -62,6 +63,7 @@
 							<host>brsv2-550aa6d9.ng.bluemix.net</host>
 							<username>resAdmin</username>
 							<password>u87yt8etv86w</password>
+							<printReport>true</printReport>
 							<wssPasswordType>PasswordText</wssPasswordType>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
@@ -84,6 +86,7 @@
 							<host>brsv2-550aa6d9.ng.bluemix.net</host>
 							<username>resAdmin</username>
 							<password>u87yt8etv86w</password>
+							<printReport>true</printReport>
 							<wssPasswordType>PasswordText</wssPasswordType>
 							<outputFolder>${project.build.directory}\surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
