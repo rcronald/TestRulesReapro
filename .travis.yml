@@ -1,2 +1,2 @@
 language: java
-script: mvn - f pom-onpBRCalcularLiquidacion.pom test
+script: mvn - f pom-onpBRCalcularLiquidacion.pom test -X
